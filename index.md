@@ -38,9 +38,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=erzer12&show_icons=true&theme=dark&hide_border=true" width="45%">
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erzer12&theme=dark&hide_border=true" width="45%">
-
   <!-- Contribution Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erzer12&theme=github_dark" width="100%">
 </div>
